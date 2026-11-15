@@ -162,13 +162,17 @@ if (nzchar(variant_protein)) {
 
 ## Figures:
 
-1. **Figure 1:** ![Amino Acid Composition Plot](https://drive.google.com/file/d/1ptis24oh193AWD0eC9NTkr8CCiiN5T5V/view?usp=drivesdk)
+<img width="2400" height="1484" alt="51240" src="https://github.com/user-attachments/assets/3b75806b-bbe4-4ad0-9a48-a6ca1a694b97" />
+
+1. **Figure 1:** ![Amino Acid Composition Plot]
    * **Interpretation:** Displays counts for all 20 standard amino acids in the MYOT protein, showing that Serine (S, 53 residues), Glutamine (Q, 42 residues), and Alanine (A, 39 residues) are the most frequent residues. This profile describes global amino-acid abundance but does not reveal 3D folding or disease mechanisms.
 
-2. **Figure 2:** ![Variant Position Map](https://drive.google.com/file/d/1-yP0VOM7zJJ7qDgofcRP2lyF9sV0bXyR/view?usp=drivesdk)
+2. **Figure 2:** ![Variant Position Map] (https://drive.google.com/file/d/1-yP0VOM7zJJ7qDgofcRP2lyF9sV0bXyR/view?usp=drivesdk)
    * **Interpretation:** Linear coordinate map of the 498-amino-acid reference protein highlighting the exact location of residue position 60 where the `p.Ser60Cys` missense variant occurs within the N-terminal serine-rich domain.
 
-3. **Figure 3:** ![Protein Structure and Domain Map](https://drive.google.com/file/d/1Ki-S7OIk-NS4d6V-keSzggEFZEEfu3QW/view?usp=drivesdk)
+<img width="2368" height="398" alt="51241" src="https://github.com/user-attachments/assets/9a46e95b-428a-4ca4-8cbd-7f524e2e06f8" />
+
+3. **Figure 3:** ![Protein Structure and Domain Map]
    * **Interpretation:** UniProt feature viewer (`Q9UBF9`) displaying sequence regions, post-translational modification (PTM) sites, the N-terminal serine-rich disordered region (containing Ser60), and the two C-terminal immunoglobulin-like (Ig-like) C2-type domains.
 
 ## Variant interpretation (observed effects, clinical association, and predictions)
